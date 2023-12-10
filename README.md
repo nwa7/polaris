@@ -29,7 +29,7 @@ Two types of classifications were carried out
 - The objective is to build a classification model that categorizes the 95 classes of monitored websites as well as an additional class of unmonitored websites.
 
 ## Repository Contents
-1. **Data Folder**
+1. **data.zip**
 
 Contains the datasets used for training, validation, and testing. This folder includes:
 - **'X1.pkl'**: a pickle file containing the sequence of packet timestamps for each monitored instance
